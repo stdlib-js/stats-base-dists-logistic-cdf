@@ -4,15 +4,25 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-06-15)
+
+<section class="features">
+
+### Features
+
+-   [`10f5b51`](https://github.com/stdlib-js/stdlib/commit/10f5b51f8b13bdda4da48dadfee88d155e63acfc) - add C implementation for `@stdlib/stats-base/dists/logistic/cdf` [(#4386)](https://github.com/stdlib-js/stdlib/pull/4386)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+A total of 3 issues were closed in this release:
 
-[#4978](https://github.com/stdlib-js/stdlib/issues/4978), [#5302](https://github.com/stdlib-js/stdlib/issues/5302)
+[#3733](https://github.com/stdlib-js/stdlib/issues/3733), [#4978](https://github.com/stdlib-js/stdlib/issues/4978), [#5302](https://github.com/stdlib-js/stdlib/issues/5302)
 
 </section>
 
@@ -24,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`10f5b51`](https://github.com/stdlib-js/stdlib/commit/10f5b51f8b13bdda4da48dadfee88d155e63acfc) - **feat:** add C implementation for `@stdlib/stats-base/dists/logistic/cdf` [(#4386)](https://github.com/stdlib-js/stdlib/pull/4386) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`899f870`](https://github.com/stdlib-js/stdlib/commit/899f87037e24691f54fb4a6467cd501ea9212388) - **style:** add missing space [(#5312)](https://github.com/stdlib-js/stdlib/pull/5312) _(by Rishav Tarway)_
 -   [`0d255bc`](https://github.com/stdlib-js/stdlib/commit/0d255bc39e0a122554fbc972be6c0973abb2c48a) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/logistic` [(#5139)](https://github.com/stdlib-js/stdlib/pull/5139) _(by GK Bishnoi, Gopi Kishan)_
 
@@ -37,10 +48,12 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Dhruv Arvind Singh
 -   GK Bishnoi
 -   Gopi Kishan
+-   Philipp Burckhardt
 -   Rishav Tarway
 
 </section>
